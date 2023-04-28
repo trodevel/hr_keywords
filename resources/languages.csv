@@ -1,107 +1,184 @@
-1;CHINESE, MANDARIN;CHN
-2;SPANISH;SPN
-3;ENGLISH;ENG
-4;BENGALI;BNG
-5;HINDI;HND
-6;PORTUGUESE;POR
-7;RUSSIAN;RUS
-8;JAPANESE;JPN
-9;GERMAN, STANDARD;GER
-10;CHINESE, WU;WUU
-11;JAVANESE;JAN
-12;KOREAN;KKN
-13;FRENCH;FRN
-14;VIETNAMESE;VIE
-15;TELUGU;TCW
-16;CHINESE, YUE;YUH
-17;MARATHI;MRT
-18;TAMIL;TCV
-19;TURKISH;TRK
-20;URDU;URD
-21;CHINESE, MIN NAN;CFR
-22;CHINESE, JINYU;CJY
-23;GUJARATI;GJR
-24;POLISH;PQL
-25;ARABIC, EGYPTIAN SPOKEN;ARZ
-26;UKRAINIAN;UKR
-27;ITALIAN;ITN
-28;CHINESE, XIANG;HSN
-29;MALAYALAM;MJS
-30;CHINESE, HAKKA;HAK
-31;KANNADA;KJV
-32;ORIYA;ORY
-33;PANJABI, WESTERN;PNB
-34;SUNDA;SUO
-35;PANJABI, EASTERN;PNJ
-36;ROMANIAN;RUM
-37;BHOJPURI;BHJ
-38;AZERBAIJANI, SOUTH;AZB
-39;FARSI, WESTERN;PES
-40;MAITHILI;MKP
-41;HAUSA;HUA
-42;ARABIC, ALGERIAN SPOKEN;ARQ
-43;BURMESE;BMS
-44;SERBO-CROATIAN;SRC
-45;CHINESE, GAN;KNN
-46;AWADHI;AWD
-47;THAI;THJ
-48;DUTCH;DUT
-49;YORUBA;YOR
-50;SINDHI;SND
-51;ARABIC, MOROCCAN SPOKEN;ARY
-52;ARABIC, SAIDI SPOKEN;AEC
-53;UZBEK, NORTHERN;UZB
-54;MALAY;MLI
-55;AMHARIC;AMH
-56;INDONESIAN;INZ
-57;IGBO;IGR
-58;TAGALOG;TGL
-59;NEPALI;NEP
-60;ARABIC, SUDANESE SPOKEN;APD
-61;SARAIKI;SKR
-62;CEBUANO;CEB
-63;ARABIC, NORTH LEVANTINE SPOKEN;APC
-64;THAI, NORTHEASTERN;TTS
-65;ASSAMESE;ASM
-66;HUNGARIAN;HNG
-67;CHITTAGONIAN;CIT
-68;ARABIC, MESOPOTAMIAN SPOKEN;ACM
-69;MADURA;MHJ
-70;SINHALA;SNH
-71;HARYANVI;BGC
-72;MARWARI;MKD
-73;CZECH;CZC
-74;GREEK;GRK
-75;MAGAHI;MQM
-76;CHHATTISGARHI;HNE
-77;DECCAN;DCC
-78;CHINESE, MIN BEI;MNP
-79;BELARUSAN;RUW
-80;ZHUANG, NORTHERN;CCX
-81;ARABIC, NAJDI SPOKEN;ARS
-82;PASHTO, NORTHERN;PBU
-83;SOMALI;SOM
-84;MALAGASY;MEX
-85;ARABIC, TUNISIAN SPOKEN;AEB
-86;RWANDA;RUA
-87;ZULU;ZUU
-88;BULGARIAN;BLG
-89;SWEDISH;SWD
-90;LOMBARD;LMO
-91;OROMO, WEST-CENTRAL;GAZ
-92;PASHTO, SOUTHERN;PBT
-93;KAZAKH;KAZ
-94;ILOCANO;ILO
-95;TATAR;TTR
-96;FULFULDE, NIGERIAN;FUV
-97;ARABIC, SANAANI SPOKEN;AYN
-98;UYGHUR;UIG
-99;HAITIAN CREOLE FRENCH;HAT
-100;AZERBAIJANI, NORTH;AZE
-101;NAPOLETANO-CALABRESE;NPL
-102;KHMER, CENTRAL;KMR
-103;FARSI, EASTERN;PRS
-104;AKAN;TWS
-105;HILIGAYNON;HIL
-106;KURMANJI;KUR
-107;SHONA;SHD
+ISO language name 	639-1
+Abkhazian	ab
+Afar	aa
+Afrikaans	af
+Akan	ak
+Albanian	sq
+Amharic	am
+Arabic	ar
+Aragonese	an
+Armenian	hy
+Assamese	as
+Avaric	av
+Avestan	ae
+Aymara	ay
+Azerbaijani	az
+Bambara	bm
+Bashkir	ba
+Basque	eu
+Belarusian	be
+Bengali	bn
+Bislama	bi
+Bosnian	bs
+Breton	br
+Bulgarian	bg
+Burmese	my
+Catalan, Valencian	ca
+Chamorro	ch
+Chechen	ce
+Chichewa, Chewa, Nyanja	ny
+Chinese	zh
+Church Slavonic, Old Slavonic, Old Church Slavonic	cu
+Chuvash	cv
+Cornish	kw
+Corsican	co
+Cree	cr
+Croatian	hr
+Czech	cs
+Danish	da
+Divehi, Dhivehi, Maldivian	dv
+Dutch, Flemish	nl
+Dzongkha	dz
+English	en
+Esperanto	eo
+Estonian	et
+Ewe	ee
+Faroese	fo
+Fijian	fj
+Finnish	fi
+French	fr
+Western Frisian	fy
+Fulah	ff
+Gaelic, Scottish Gaelic	gd
+Galician	gl
+Ganda	lg
+Georgian	ka
+German	de
+Greek, Modern (1453–)	el
+Kalaallisut, Greenlandic	kl
+Guarani	gn
+Gujarati	gu
+Haitian, Haitian Creole	ht
+Hausa	ha
+Hebrew	he
+Herero	hz
+Hindi	hi
+Hiri Motu	ho
+Hungarian	hu
+Icelandic	is
+Ido	io
+Igbo	ig
+Indonesian	id
+Interlingua (International Auxiliary Language Association)	ia
+Interlingue, Occidental	ie
+Inuktitut	iu
+Inupiaq	ik
+Irish	ga
+Italian	it
+Japanese	ja
+Javanese	jv
+Kannada	kn
+Kanuri	kr
+Kashmiri	ks
+Kazakh	kk
+Central Khmer	km
+Kikuyu, Gikuyu	ki
+Kinyarwanda	rw
+Kirghiz, Kyrgyz	ky
+Komi	kv
+Kongo	kg
+Korean	ko
+Kuanyama, Kwanyama	kj
+Kurdish	ku
+Lao	lo
+Latin	la
+Latvian	lv
+Limburgan, Limburger, Limburgish	li
+Lingala	ln
+Lithuanian	lt
+Luba-Katanga	lu
+Luxembourgish, Letzeburgesch	lb
+Macedonian	mk
+Malagasy	mg
+Malay	ms
+Malayalam	ml
+Maltese	mt
+Manx	gv
+Maori	mi
+Marathi	mr
+Marshallese	mh
+Mongolian	mn
+Nauru	na
+Navajo, Navaho	nv
+North Ndebele	nd
+South Ndebele	nr
+Ndonga	ng
+Nepali	ne
+Norwegian	no
+Norwegian Bokmål	nb
+Norwegian Nynorsk	nn
+Sichuan Yi, Nuosu	ii
+Occitan	oc
+Ojibwa	oj
+Oriya	or
+Oromo	om
+Ossetian, Ossetic	os
+Pali	pi
+Pashto, Pushto	ps
+Persian	fa
+Polish	pl
+Portuguese	pt
+Punjabi, Panjabi	pa
+Quechua	qu
+Romanian, Moldavian, Moldovan	ro
+Romansh	rm
+Rundi	rn
+Russian	ru
+Northern Sami	se
+Samoan	sm
+Sango	sg
+Sanskrit	sa
+Sardinian	sc
+Serbian	sr
+Shona	sn
+Sindhi	sd
+Sinhala, Sinhalese	si
+Slovak	sk
+Slovenian	sl
+Somali	so
+Southern Sotho	st
+Spanish, Castilian	es
+Sundanese	su
+Swahili	sw
+Swati	ss
+Swedish	sv
+Tagalog	tl
+Tahitian	ty
+Tajik	tg
+Tamil	ta
+Tatar	tt
+Telugu	te
+Thai	th
+Tibetan	bo
+Tigrinya	ti
+Tonga (Tonga Islands)	to
+Tsonga	ts
+Tswana	tn
+Turkish	tr
+Turkmen	tk
+Twi	tw
+Uighur, Uyghur	ug
+Ukrainian	uk
+Urdu	ur
+Uzbek	uz
+Venda	ve
+Vietnamese	vi
+Volapük	vo
+Walloon	wa
+Welsh	cy
+Wolof	wo
+Xhosa	xh
+Yiddish	yi
+Yoruba	yo
+Zhuang, Chuang	za
+Zulu	zu
