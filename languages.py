@@ -9,7 +9,6 @@ class Language(int, Enum):
     ar = 7 # Arabic
     an = 8 # Aragonese
     hy = 9 # Armenian
-    as = 10 # Assamese
     av = 11 # Avaric
     ae = 12 # Avestan
     ay = 13 # Aymara
@@ -66,7 +65,6 @@ class Language(int, Enum):
     hi = 64 # Hindi
     ho = 65 # Hiri Motu
     hu = 66 # Hungarian
-    is = 67 # Icelandic
     io = 68 # Ido
     ig = 69 # Igbo
     id = 70 # Indonesian
@@ -121,7 +119,6 @@ class Language(int, Enum):
     ii = 119 # Sichuan Yi, Nuosu
     oc = 120 # Occitan
     oj = 121 # Ojibwa
-    or = 122 # Oriya
     om = 123 # Oromo
     os = 124 # Ossetian, Ossetic
     pi = 125 # Pali
