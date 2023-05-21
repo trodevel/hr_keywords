@@ -3,7 +3,7 @@
 # source: https://en.wikipedia.org/wiki/ISO_4217
 
 INP=../resources/currencies.csv
-FL=../currencies.py
+FL=../python/currencies.py
 
 echo "from enum import Enum" > $FL
 echo "class Currency(int, Enum):" >> $FL

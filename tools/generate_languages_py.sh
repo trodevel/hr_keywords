@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INP=../resources/languages.csv
-FL=../languages.py
+FL=../python/languages.py
 
 echo "from enum import Enum" > $FL
 echo "class Language(int, Enum):" >> $FL
