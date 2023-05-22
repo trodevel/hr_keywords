@@ -23,3 +23,6 @@ awk -F";" '{ printf "%s;%s;", $1, $2; for( i=3; i<NF; ++i ) { if ( $i ~ ".*[Ð°-Ñ
 # remove dup
 remove_dup $FL.1.srt.flat.nl.en.csv $FL.1.srt.flat.nl.en.nodup.csv
 remove_dup $FL.1.srt.flat.nl.ru.csv $FL.1.srt.flat.nl.ru.nodup.csv
+
+cp $FL.1.srt.flat.nl.en.nodup.csv specializations.en.csv
+cp $FL.1.srt.flat.nl.ru.nodup.csv specializations.ru.csv
