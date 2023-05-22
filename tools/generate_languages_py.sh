@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INP=../resources/languages.csv
+INP=../raw_resources/languages.csv
 FL=../python/languages.py
 
 echo "from enum import Enum" > $FL
